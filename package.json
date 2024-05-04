@@ -4,12 +4,8 @@
     "description": "",
     "main": "index.js",
     "type": "module",
-    "engines": {
-        "node": "20.x"
-    },
     "scripts": {
-        "dev": "vite",
-        "start": "vite"
+        "dev": "vite"
     },
     "keywords": [],
     "author": "",
